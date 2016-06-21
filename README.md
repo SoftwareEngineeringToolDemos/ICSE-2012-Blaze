@@ -3,8 +3,8 @@ This repository contains information related to the tool Blaze presented at the 
 This repository _is not_ the original repository for this tool.
 
 In this repository, for Evolve you will find:
- * :white_check_mark: Source code (not available)
- * :white_check_mark: The original tool (not available)
+ * :x: Source code (not available)
+ * :x: The original tool (not available)
  
 This repository was constructed by [Vrushti Shah](https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
  
